@@ -1,11 +1,5 @@
 # Code_Clinic_CLI_Python3
 
-# TO RUN
-  -> activate venv : '. .venv/bin/activate'
-  -> run : 'python3 ./cc'
-  -> get help: 'python3 ./cc help'
-
-
 # Description of the project
 WeThinkCode_ introduced Coding Clinics to help students share challenges they are facing with the coding problems. A student needs to book a specific time slot to attend a Coding Clinic session, and typically these sessions are one-on-one sessions with a more experienced person who can advise on the coding problem at hand.
 
